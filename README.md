@@ -18,5 +18,9 @@ This is a music collection used in our experiment
 ## Music segmentation
   1. Music segments in ```/Music_data/Chill_test_music``` duration is all 90s
   2. Music segments in other folders are all around 20-50s.
+## The link
+ ''' https://drive.google.com/drive/folders/17HJygA_J1iDgMeI1cYwh6UD1ot87xHHA'''
+
+
   
    
